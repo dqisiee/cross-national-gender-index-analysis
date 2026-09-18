@@ -23,6 +23,7 @@ The objective is to evaluate whether adherence to traditional gender expectation
 
 ## Repository Structure
 
+```text
 ├── data/
 │   └── global_masculinity_survey.csv   # Source dataset
 ├── output/
@@ -32,3 +33,4 @@ The objective is to evaluate whether adherence to traditional gender expectation
 │   └── analysis_pipeline.R             # End-to-end reproducible pipeline
 ├── .gitignore
 └── README.md
+```

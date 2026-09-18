@@ -1,0 +1,11 @@
+country,age_group,sample_size,mean_cgi,sd_cgi,median_cgi,iqr_cgi
+Australia,18-24,35,7,1.46,7,2
+Australia,25-34,122,7.04,1.75,7,2
+Australia,35-44,110,7.09,1.46,7,2
+Australia,45-54,118,7.15,1.58,7,2
+Australia,55-64,127,7.13,1.47,7,2
+Japan,18-24,4,5.5,1,5,0.5
+Japan,25-34,28,6.04,1.91,5.5,2
+Japan,35-44,62,6.37,1.94,6,3
+Japan,45-54,75,6.28,1.67,6,2
+Japan,55-64,91,6.95,1.69,7,2
